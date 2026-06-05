@@ -15,8 +15,7 @@ This project focuses on analyzing customer behavior and subscription data to ide
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
-- Jupyter Notebook / Google Colab
+- Google Colab
 
 ## Dataset
 The dataset contains customer information such as:
